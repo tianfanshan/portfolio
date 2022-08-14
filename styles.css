@@ -29,6 +29,10 @@ body {
   border: solid 1px;
 }
 
+.brand-icon{
+  width: 7%;
+}
+
 /* About me Section */
 
 .about-me-section{
@@ -41,6 +45,11 @@ body {
 
 #about-me-carousel{
   margin-top: 2%;
+}
+
+.about-me-item-title{
+  color: #fff;
+  margin-bottom: 30px;
 }
 
 .description{
